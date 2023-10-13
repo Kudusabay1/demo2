@@ -2,3 +2,4 @@
 Learning how to use git and github
 lane tech period 2
 Kudus Abay
+review October 13
